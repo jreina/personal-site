@@ -1,1 +1,250 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Hi, I'm Patrick 👋]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 04 Jan 2020 17:22:23 GMT</lastBuildDate><item><title><![CDATA[Custom Domains and Gmail]]></title><description><![CDATA[// TODO: Write the post]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Custom Domains and Gmail/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Custom Domains and Gmail/</guid><pubDate>Wed, 02 Jan 2019 20:10:42 GMT</pubDate><content:encoded>&lt;p&gt;// TODO: Write the post&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Hi, I'm Patrick 👋]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 05 Jan 2020 21:44:15 GMT</lastBuildDate><item><title><![CDATA[Custom Domains and Gmail]]></title><description><![CDATA[This post walks through the process of using Gmail with a custom domain name for free. 1. Create a Gmail Account You can use a personal…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/Custom Domains and Gmail/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/Custom Domains and Gmail/</guid><pubDate>Wed, 02 Jan 2019 20:10:42 GMT</pubDate><content:encoded>&lt;p&gt;This post walks through the process of using Gmail with a custom domain name &lt;em&gt;for free&lt;/em&gt;.&lt;/p&gt;
+&lt;h2&gt;1. Create a Gmail Account&lt;/h2&gt;
+&lt;p&gt;You can use a personal Gmail account or &lt;a href=&quot;https://accounts.google.com/SignUp&quot;&gt;create a new one&lt;/a&gt;. Either way you will need an account. Personally, I like to keep my professional and personal accounts separate.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f6a3f81bc7edd70058b1a797985f249c/b5041/00-create-gmail-account.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.92513368983957%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAd4spSl//8QAGRABAAIDAAAAAAAAAAAAAAAAAgASARAx/9oACAEBAAEFAolUnNjO6//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAMAAwAAAAAAAAAAAAAAAAABEBEhMf/aAAgBAQAGPwIz0Tm5/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFBgf/aAAgBAQABPyH00BjGMvCCqOEJRH//2gAMAwEAAgADAAAAEFzv/8QAFhEAAwAAAAAAAAAAAAAAAAAAARBR/9oACAEDAQE/EDF//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFR/9oACAECAQE/EJqv/8QAGxABAQEAAwEBAAAAAAAAAAAAAREAITFBYZH/2gAIAQEAAT8QjX76zMGCEPazcqZ2uzeudIA5hG0/MAB0b//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Create a Gmail Account&quot;
+        title=&quot;Create a Gmail Account&quot;
+        src=&quot;/static/f6a3f81bc7edd70058b1a797985f249c/88218/00-create-gmail-account.jpg&quot;
+        srcset=&quot;/static/f6a3f81bc7edd70058b1a797985f249c/7237a/00-create-gmail-account.jpg 148w,
+/static/f6a3f81bc7edd70058b1a797985f249c/0cfdf/00-create-gmail-account.jpg 295w,
+/static/f6a3f81bc7edd70058b1a797985f249c/88218/00-create-gmail-account.jpg 590w,
+/static/f6a3f81bc7edd70058b1a797985f249c/b5041/00-create-gmail-account.jpg 748w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;2. Purchase a domain&lt;/h2&gt;
+&lt;p&gt;Next, you will need a domain. If you have one, feel free to skip this section.&lt;/p&gt;
+&lt;p&gt;I purchased this domain from &lt;a href=&quot;https://www.namecheap.com/&quot;&gt;Namecheap&lt;/a&gt;, but I hear good things about &lt;a href=&quot;https://domains.google/&quot;&gt;Google Domains&lt;/a&gt;. Students can get a free/discounted domain with the &lt;a href=&quot;https://education.github.com/pack&quot;&gt;GitHub Student Developer Pack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/217627c9cc62fd21da1e411f97944886/8eced/01-purchase-domain.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.61194029850747%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQADBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAezooTH/xAAXEAEAAwAAAAAAAAAAAAAAAAABEBIg/9oACAEBAAEFArJBj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABsQAAIDAAMAAAAAAAAAAAAAAAERACExEFGR/9oACAEBAAE/ISZjsD2I9xrbiB0c/wD/2gAMAwEAAgADAAAAEHDP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxAAAgMBAQEAAAAAAAAAAAAAAREAITFRQWH/2gAIAQEAAT8QMHgqI0o07A4hGYEUGr+1LCDfo5kNQT//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Google Domains&quot;
+        title=&quot;Google Domains&quot;
+        src=&quot;/static/217627c9cc62fd21da1e411f97944886/88218/01-purchase-domain.jpg&quot;
+        srcset=&quot;/static/217627c9cc62fd21da1e411f97944886/7237a/01-purchase-domain.jpg 148w,
+/static/217627c9cc62fd21da1e411f97944886/0cfdf/01-purchase-domain.jpg 295w,
+/static/217627c9cc62fd21da1e411f97944886/88218/01-purchase-domain.jpg 590w,
+/static/217627c9cc62fd21da1e411f97944886/77d57/01-purchase-domain.jpg 885w,
+/static/217627c9cc62fd21da1e411f97944886/5a917/01-purchase-domain.jpg 1180w,
+/static/217627c9cc62fd21da1e411f97944886/8eced/01-purchase-domain.jpg 1340w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;3. Create a Mailgun account&lt;/h2&gt;
+&lt;p&gt;After this step the real fun begins. I use &lt;a href=&quot;https://www.mailgun.com/&quot;&gt;Mailgun&lt;/a&gt; as my domain’s email service. Some DNS providers have an email forwarding service, but this tutorial does not explore that route.&lt;/p&gt;
+&lt;p&gt;Mailgun does require a Credit Card on file to send emails. After you create your account, don’t forget to confirm your email address.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bc51a9c55f74fabb204ee4c9c5f74c88/b82af/02-create-mailgun-account.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.716458446496475%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHEslxCD//EABgQAAIDAAAAAAAAAAAAAAAAAAABAxMx/9oACAEBAAEFAiKse//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAABESOB/9oACAEBAAY/AjS8HHT/xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhMVH/2gAIAQEAAT8hyF28+QSlQXH6f//aAAwDAQACAAMAAAAQhB//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEBAQEAAwAAAAAAAAAAAAABESEAMUGB/9oACAEBAAE/ED2W35wDQMNBG6ueA3lKCiMi49//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Mailgun Home Page&quot;
+        title=&quot;Mailgun Home Page&quot;
+        src=&quot;/static/bc51a9c55f74fabb204ee4c9c5f74c88/88218/02-create-mailgun-account.jpg&quot;
+        srcset=&quot;/static/bc51a9c55f74fabb204ee4c9c5f74c88/7237a/02-create-mailgun-account.jpg 148w,
+/static/bc51a9c55f74fabb204ee4c9c5f74c88/0cfdf/02-create-mailgun-account.jpg 295w,
+/static/bc51a9c55f74fabb204ee4c9c5f74c88/88218/02-create-mailgun-account.jpg 590w,
+/static/bc51a9c55f74fabb204ee4c9c5f74c88/77d57/02-create-mailgun-account.jpg 885w,
+/static/bc51a9c55f74fabb204ee4c9c5f74c88/5a917/02-create-mailgun-account.jpg 1180w,
+/static/bc51a9c55f74fabb204ee4c9c5f74c88/b82af/02-create-mailgun-account.jpg 1841w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;4. Add and verify your domain&lt;/h2&gt;
+&lt;p&gt;Find the &lt;strong&gt;Getting Started&lt;/strong&gt; section on the right-side of the Mailgun dashboard. Follow the link to &lt;em&gt;Add a custom domain&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Create your subdomain (&lt;code class=&quot;language-text&quot;&gt;patrickt.one&lt;/code&gt;). Keep the &lt;strong&gt;Create DKIM Authority&lt;/strong&gt; checked and select &lt;strong&gt;2048&lt;/strong&gt; for extra security.&lt;/p&gt;
+&lt;p&gt;Mailgun provides step-by-step directions for adding the DNS records for your DNS provider. I recommend you add all the records to your DNS records (2 TXT, 2 MX, and 1 CNAME). Now we wait for the DNS records to update (may take up to 48 hours…).&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 479px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dcd3b79e59d969f607fcff2963e6c614/27160/03-set-up-mailgun.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.01461377870564%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe3c0aD/xAAWEAEBAQAAAAAAAAAAAAAAAAAQIUH/2gAIAQEAAQUCrp//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARITGB/9oACAEBAAE/IcHtFxYXY//aAAwDAQACAAMAAAAQgM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEBAAICAwAAAAAAAAAAAAABEQBBECFRgZH/2gAIAQEAAT8QFtYu8Le0PeS7cewbL5cF39cf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Set up Mailgun&quot;
+        title=&quot;Set up Mailgun&quot;
+        src=&quot;/static/dcd3b79e59d969f607fcff2963e6c614/27160/03-set-up-mailgun.jpg&quot;
+        srcset=&quot;/static/dcd3b79e59d969f607fcff2963e6c614/7237a/03-set-up-mailgun.jpg 148w,
+/static/dcd3b79e59d969f607fcff2963e6c614/0cfdf/03-set-up-mailgun.jpg 295w,
+/static/dcd3b79e59d969f607fcff2963e6c614/27160/03-set-up-mailgun.jpg 479w&quot;
+        sizes=&quot;(max-width: 479px) 100vw, 479px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;5. Set up routing&lt;/h2&gt;
+&lt;p&gt;With Mailgun you have the ability to set up &lt;strong&gt;routes&lt;/strong&gt; (Receiving &gt; Create Route).  This allows you to forward mail to different email addresses. With a personal domain, I find having one &lt;em&gt;catch all&lt;/em&gt; route sufficient.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Expression Type:&lt;/strong&gt; Catch All&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Forward:&lt;/strong&gt; Selected + your gmail address&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Priority:&lt;/strong&gt; 10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e5e3b76981a39928e9e2e11a200e158/88756/04-set-up-routes.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51.99264255058247%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHu1lEhP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABYQAQEBAAAAAAAAAAAAAAAAAAEQAP/aAAgBAQABPyGNd//aAAwDAQACAAMAAAAQ4/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAExEBEhUZH/2gAIAQEAAT8QSzD4K2iQqSP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Set up routes&quot;
+        title=&quot;Set up routes&quot;
+        src=&quot;/static/4e5e3b76981a39928e9e2e11a200e158/88218/04-set-up-routes.jpg&quot;
+        srcset=&quot;/static/4e5e3b76981a39928e9e2e11a200e158/7237a/04-set-up-routes.jpg 148w,
+/static/4e5e3b76981a39928e9e2e11a200e158/0cfdf/04-set-up-routes.jpg 295w,
+/static/4e5e3b76981a39928e9e2e11a200e158/88218/04-set-up-routes.jpg 590w,
+/static/4e5e3b76981a39928e9e2e11a200e158/77d57/04-set-up-routes.jpg 885w,
+/static/4e5e3b76981a39928e9e2e11a200e158/5a917/04-set-up-routes.jpg 1180w,
+/static/4e5e3b76981a39928e9e2e11a200e158/88756/04-set-up-routes.jpg 1631w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;6. Set up SMTP credentials&lt;/h2&gt;
+&lt;p&gt;Now you need to create STMP credentials for the account you want to send emails as. Note: the catch all route allows you to receive all the emails, but you’ll need STMP credentials to send emails from Gmail.&lt;/p&gt;
+&lt;p&gt;To add an STMP credential, navigate to your domain settings (Sending &gt; Domain settings &gt; SMTP credentials &gt; New STMP User). Choose the email address you’d like to send emails as (&lt;code class=&quot;language-text&quot;&gt;hello@patrickt.one&lt;/code&gt;). Take note of the password.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 525px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2049e8591ab4339571040504b6f3430c/cf88e/05-stmp-creds.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.523809523809526%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHdsISX/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQEABj8Cq//EABoQAAICAwAAAAAAAAAAAAAAAAERABAhUZH/2gAIAQEAAT8hYeUg7SGhf//aAAwDAQACAAMAAAAQFw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQcSExUf/aAAgBAQABPxBNFryyIop2lRflR1ADox//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Set up STMP credentials&quot;
+        title=&quot;Set up STMP credentials&quot;
+        src=&quot;/static/2049e8591ab4339571040504b6f3430c/cf88e/05-stmp-creds.jpg&quot;
+        srcset=&quot;/static/2049e8591ab4339571040504b6f3430c/7237a/05-stmp-creds.jpg 148w,
+/static/2049e8591ab4339571040504b6f3430c/0cfdf/05-stmp-creds.jpg 295w,
+/static/2049e8591ab4339571040504b6f3430c/cf88e/05-stmp-creds.jpg 525w&quot;
+        sizes=&quot;(max-width: 525px) 100vw, 525px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;(Optional) Set up &lt;em&gt;Open&lt;/em&gt; tracking&lt;/h3&gt;
+&lt;p&gt;Go to the Domain settings &gt; Open tracking and set tracking to &lt;strong&gt;On&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;7. Send from Gmail&lt;/h2&gt;
+&lt;p&gt;Finally to Gmail. On the right side of the page, click the gear icon &gt; Settings &gt; Accounts and Import &gt; Send mail as &gt; Add another email address.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;your name (or whatever you&amp;#39;d like to show up)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email address:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;&amp;lt;the SMTP email address you created (hello@patrickt.one)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Treat as an alias:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;checked&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SMTP Server:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;smtp.mailgun.org&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Port:&lt;/strong&gt; 587&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Username:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;hello@patrickt.one&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Password:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;&amp;lt;password from earlier&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Secured connection using TLS:&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;selected&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If everything goes as expected, you will receive an email from Google with a verification code (or link).&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/22e112445e028962c1819c36f7d027fc/8cf91/06-send-email-as.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.25806451612904%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAA//aAAwDAQACEAMQAAAB2KszSGG//8QAGBABAQADAAAAAAAAAAAAAAAAAQACESD/2gAIAQEAAQUCcSAtcf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAWEAEBAQAAAAAAAAAAAAAAAAAxACD/2gAIAQEABj8CIz//xAAYEAADAQEAAAAAAAAAAAAAAAAAAREgUf/aAAgBAQABPyFIQCOLH//aAAwDAQACAAMAAAAQcC//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QrKz/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQExUf/aAAgBAgEBPxBQqEw//8QAGxABAAICAwAAAAAAAAAAAAAAAQARECFBYeH/2gAIAQEAAT8Q2QG5UBQ73Hzpxhn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Send email as&quot;
+        title=&quot;Send email as&quot;
+        src=&quot;/static/22e112445e028962c1819c36f7d027fc/88218/06-send-email-as.jpg&quot;
+        srcset=&quot;/static/22e112445e028962c1819c36f7d027fc/7237a/06-send-email-as.jpg 148w,
+/static/22e112445e028962c1819c36f7d027fc/0cfdf/06-send-email-as.jpg 295w,
+/static/22e112445e028962c1819c36f7d027fc/88218/06-send-email-as.jpg 590w,
+/static/22e112445e028962c1819c36f7d027fc/8cf91/06-send-email-as.jpg 620w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Voilà!&lt;/strong&gt;&lt;/em&gt; You can now send emails with your custom domain with Gmail.&lt;/p&gt;</content:encoded></item></channel></rss>
