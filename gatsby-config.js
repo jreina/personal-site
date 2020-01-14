@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Hi, I'm Patrick 👋`,
     author: `Patrick Tone`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `My ramblings so I don't forget what I've learned and maybe someone will benefit`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `patrickatone`,
