@@ -1,6 +1,6 @@
 ---
 title: Custom Domains and Gmail
-date: "2019-01-02T14:10:42"
+date: "2020-01-02T14:10:42"
 description: "My journey to send email from my custom domain."
 ---
 
@@ -66,7 +66,7 @@ Finally to Gmail. On the right side of the page, click the gear icon > Settings 
 
 1. **Name:** `your name (or whatever you'd like to show up)`
 
-    **Email address:** `<the SMTP email address you created (hello@patrickt.one)`
+    **Email address:** `<the SMTP email address you created (hello@patrickt.one)>`
 
     **Treat as an alias:** `checked`
 
